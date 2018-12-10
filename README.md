@@ -4,4 +4,4 @@ My friends and I take part in a dynsatsy fantasy football league. The league use
 1) Every team plays every week
 2) Every team plays every other team at least once and no more than twice
 3) No two matchups are the same two weeks in a row
-4) Every team play's there rival in weeks 7 and 14
+4) Every team play's their rival in weeks 7 and 14
